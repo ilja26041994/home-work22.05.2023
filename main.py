@@ -36,3 +36,20 @@
 # print(summ)
 # print('количество повторившихся а =', cnt)
 
+# # 6.27 б
+# min=10
+# max=1
+# g = 0
+# z = 0
+# x = int(input('some number\n'))
+# while x > 0:
+#     g = x % 10
+#     if g < min:
+#         min=g
+#     z = x % 10
+#     if z > max:
+#         max = z
+#
+#     x = x // 10
+#     result = max - min
+# print('result =',result)
